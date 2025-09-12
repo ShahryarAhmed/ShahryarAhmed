@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahryarAhmed
 - 👀 I’m interested in software development!
-- 🌱 2025 new grad roles
+- 🌱 Lead Software Engineer
 - 📫 How to reach me: s376ahme@uwaterloo.ca
 
 <!---
